@@ -1,0 +1,8 @@
+# folders
+/data
+/__pycache__
+
+# file types
+*.yml
+*.csv
+*.pyc
